@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "path": "Collectibles/data/dyes.json",
+      "kind": "collectible",
+      "namespace": "dyes"
+    },
+    {
+      "path": "Collectibles/data/finishers.json",
+      "kind": "collectible",
+      "namespace": "finishers"
+    },
+    {
+      "path": "Collectibles/data/fishing.json",
+      "kind": "collectible",
+      "namespace": "fishing"
+    },
+    {
+      "path": "Collectibles/data/gliders.json",
+      "kind": "collectible",
+      "namespace": "gliders"
+    },
+    {
+      "path": "Collectibles/data/jadebots.json",
+      "kind": "collectible",
+      "namespace": "jadebots"
+    },
+    {
+      "path": "Collectibles/data/mailcarriers.json",
+      "kind": "collectible",
+      "namespace": "mailcarriers"
+    },
+    {
+      "path": "Collectibles/data/masteries.json",
+      "kind": "collectible",
+      "namespace": "masteries"
+    },
+    {
+      "path": "Collectibles/data/minis.json",
+      "kind": "collectible",
+      "namespace": "minis"
+    },
+    {
+      "path": "Collectibles/data/mounts.json",
+      "kind": "collectible",
+      "namespace": "mounts"
+    },
+    {
+      "path": "Collectibles/data/novelties.json",
+      "kind": "collectible",
+      "namespace": "novelties"
+    },
+    {
+      "path": "Collectibles/data/outfits.json",
+      "kind": "collectible",
+      "namespace": "outfits"
+    },
+    {
+      "path": "Collectibles/data/skiffs.json",
+      "kind": "collectible",
+      "namespace": "skiffs"
+    },
+    {
+      "path": "Collectibles/data/skins.json",
+      "kind": "collectible",
+      "namespace": "skins"
+    },
+    {
+      "path": "data/armorsmith-discovery.json",
+      "kind": "discovery",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/armorsmith-families.json",
+      "kind": "support",
+      "namespace": ""
+    },
+    {
+      "path": "data/armorsmith-recipes.json",
+      "kind": "recipe",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/artificer-discovery.json",
+      "kind": "discovery",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/artificer-families.json",
+      "kind": "support",
+      "namespace": ""
+    },
+    {
+      "path": "data/artificer-recipes.json",
+      "kind": "recipe",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/chef-discovery.json",
+      "kind": "discovery",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/chef-ingredients.json",
+      "kind": "support",
+      "namespace": ""
+    },
+    {
+      "path": "data/chef-recipes-backup.json",
+      "kind": "support",
+      "namespace": ""
+    },
+    {
+      "path": "data/chef-recipes-complete.json",
+      "kind": "support",
+      "namespace": ""
+    },
+    {
+      "path": "data/chef-recipes-named.json",
+      "kind": "support",
+      "namespace": ""
+    },
+    {
+      "path": "data/chef-recipes.json",
+      "kind": "recipe",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/huntsman-discovery.json",
+      "kind": "discovery",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/huntsman-families.json",
+      "kind": "support",
+      "namespace": ""
+    },
+    {
+      "path": "data/huntsman-recipes.json",
+      "kind": "recipe",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/jeweler-discovery.json",
+      "kind": "discovery",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/jeweler-families.json",
+      "kind": "support",
+      "namespace": ""
+    },
+    {
+      "path": "data/jeweler-recipes.json",
+      "kind": "recipe",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/leatherworker-discovery.json",
+      "kind": "discovery",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/leatherworker-families.json",
+      "kind": "support",
+      "namespace": ""
+    },
+    {
+      "path": "data/leatherworker-recipes.json",
+      "kind": "recipe",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/legendary-database.json",
+      "kind": "legendary",
+      "namespace": "item"
+    },
+    {
+      "path": "data/legendary-weapon-recipes.json",
+      "kind": "legendary-template",
+      "namespace": "item"
+    },
+    {
+      "path": "data/scribe-discovery.json",
+      "kind": "discovery",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/scribe-families.json",
+      "kind": "support",
+      "namespace": ""
+    },
+    {
+      "path": "data/scribe-recipes.json",
+      "kind": "recipe",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/tailor-discovery.json",
+      "kind": "discovery",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/tailor-families.json",
+      "kind": "support",
+      "namespace": ""
+    },
+    {
+      "path": "data/tailor-recipes.json",
+      "kind": "recipe",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/weaponsmith-discovery.json",
+      "kind": "discovery",
+      "namespace": "recipe"
+    },
+    {
+      "path": "data/weaponsmith-families.json",
+      "kind": "support",
+      "namespace": ""
+    },
+    {
+      "path": "data/weaponsmith-recipes.json",
+      "kind": "recipe",
+      "namespace": "recipe"
+    }
+  ]
+}
